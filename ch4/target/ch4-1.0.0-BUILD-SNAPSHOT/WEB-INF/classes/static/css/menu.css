@@ -1,0 +1,73 @@
+/** { /*전체
+    box-sizing: border-box;
+    margin : 0;
+    padding: 0;
+}
+
+header { /*header
+    list-style-type: none;
+    height:  65px;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+}
+header > h1 {
+    color: black;
+    font-size: 35px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+ul {
+    list-style-type: none;
+    height: 48px;
+    width: 100%;
+    display: flex;
+
+}
+ul > li {
+    color: lightgray;
+    height : 100%;
+    width: 100%;
+    display:flex;
+}
+ul > li > a {
+    color: blue;
+    margin: auto;
+    padding: 10px;
+    font-size:15px;
+    align-items: center;
+} */
+#box {
+    border: 1px solid lightgray;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 25px;
+    padding: 18px; /*박스안의 허수공간*/
+}
+/*#box2 {
+    border: 1px solid lightgray;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px 30px 150px;
+    line-height: 1.7;
+}
+#box2 > h2{
+    font-size: 15px;
+    font-weight: 200;
+}
+
+#footer {
+    margin-top: 20px;
+    list-style-type: none;
+    height:  65px;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    text-align: center;
+}
+#footer > h3 {
+    color: black;
+    font-size: 15px;
+    margin: 0 auto;
+    padding-top: 20px;
+}*/
